@@ -1,0 +1,14 @@
+0:0:0:0:0:0:0:1 - - [18/Apr/2018:20:48:57 +0530] "GET / HTTP/1.1" 200 286 http-bio-9090-exec-1 3511
+0:0:0:0:0:0:0:1 - - [18/Apr/2018:20:48:58 +0530] "GET /favicon.ico HTTP/1.1" 404 973 http-bio-9090-exec-5 5
+0:0:0:0:0:0:0:1 - - [18/Apr/2018:20:51:41 +0530] "GET / HTTP/1.1" 404 951 http-bio-9090-exec-1 111
+0:0:0:0:0:0:0:1 - - [18/Apr/2018:20:51:54 +0530] "GET /spring-mvc/ HTTP/1.1" 404 949 http-bio-9090-exec-5 58
+0:0:0:0:0:0:0:1 - - [18/Apr/2018:20:51:59 +0530] "GET /spring-mvc/login HTTP/1.1" 200 17 http-bio-9090-exec-9 83
+0:0:0:0:0:0:0:1 - - [18/Apr/2018:20:54:07 +0530] "GET /spring-mvc/login HTTP/1.1" 200 17 http-bio-9090-exec-1 224
+0:0:0:0:0:0:0:1 - - [18/Apr/2018:20:55:03 +0530] "GET /spring-mvc/login HTTP/1.1" 404 949 http-bio-9090-exec-1 175
+0:0:0:0:0:0:0:1 - - [18/Apr/2018:20:58:32 +0530] "GET /spring-mvc/login HTTP/1.1" 500 2980 http-bio-9090-exec-1 242
+0:0:0:0:0:0:0:1 - - [18/Apr/2018:21:13:48 +0530] "GET /spring-mvc/login HTTP/1.1" 200 286 http-bio-9090-exec-1 741
+0:0:0:0:0:0:0:1 - - [18/Apr/2018:21:18:04 +0530] "GET /spring-mvc/login HTTP/1.1" 500 2980 http-bio-9090-exec-1 231
+0:0:0:0:0:0:0:1 - - [18/Apr/2018:21:21:38 +0530] "GET /spring-mvc/login HTTP/1.1" 500 2980 http-bio-9090-exec-1 438
+0:0:0:0:0:0:0:1 - - [18/Apr/2018:21:21:41 +0530] "GET /spring-mvc/login HTTP/1.1" 500 2980 http-bio-9090-exec-2 13
+0:0:0:0:0:0:0:1 - - [18/Apr/2018:21:23:37 +0530] "GET /spring-mvc/login HTTP/1.1" 500 2980 http-bio-9090-exec-1 242
+0:0:0:0:0:0:0:1 - - [18/Apr/2018:21:31:02 +0530] "GET /spring-mvc/login HTTP/1.1" 200 286 http-bio-9090-exec-1 466
